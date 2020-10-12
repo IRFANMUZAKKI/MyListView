@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">PANCILLUMINATION</string>
+    <string name="lorem">a i u e o</string>
+
+    <string-array name="data_name">
+        <item>Egel</item>
+        <item>Fajar</item>
+        <item>Kholik</item>
+        <item>Lana</item>
+        <item>Pei</item>
+        <item>Rangga</item>
+        <item>unyek</item>
+        <item>Zaky</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>anak keranji</item>
+        <item>anak kotayasa</item>
+        <item>anak ajibarang</item>
+        <item>anak kotayasa</item>
+        <item>pro player valorant</item>
+        <item>naks arca</item>
+        <item>bacot nambah damage</item>
+        <item>anak nolep</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/egel</item>
+        <item>@drawable/fajar</item>
+        <item>@drawable/kholik</item>
+        <item>@drawable/lana</item>
+        <item>@drawable/pei</item>
+        <item>@drawable/rangga</item>
+        <item>@drawable/unyek</item>
+        <item>@drawable/zaky</item>
+    </array>
+</resources>
